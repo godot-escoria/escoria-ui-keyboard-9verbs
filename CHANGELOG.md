@@ -1,3 +1,13 @@
+## [4.0.0-alpha.1](https://github.com/godot-escoria/escoria-ui-9verbs/compare/v0.0.0...v4.0.0-alpha.1) (2021-10-17)
+
+
+### Bug Fixes
+
+* Fixed prerelease workflow ([a32b4ea](https://github.com/godot-escoria/escoria-ui-9verbs/commit/a32b4ea898863647bf16bda350e690a725f86ba3))
+* Updated attributes ([6722bdd](https://github.com/godot-escoria/escoria-ui-9verbs/commit/6722bdd8c1d1eb86d175a374140240cf107d0ee7))
+
+
+
 ### [4.0.1-alpha.0](https://github.com/godot-escoria/escoria-ui-9verbs/compare/v0.0.0...v4.0.1-alpha.0) (2021-10-17)
 
 
