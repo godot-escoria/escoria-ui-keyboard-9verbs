@@ -1,3 +1,12 @@
+## [4.0.0-alpha.2](https://github.com/godot-escoria/escoria-ui-9verbs/compare/v0.0.0...v4.0.0-alpha.2) (2021-10-17)
+
+
+### Features
+
+* Added version bump to plugin.cfg ([a3ba0a7](https://github.com/godot-escoria/escoria-ui-9verbs/commit/a3ba0a72a7626ac2c9bdc5e3475cf003ce0b4472))
+
+
+
 ## [4.0.0-alpha.1](https://github.com/godot-escoria/escoria-ui-9verbs/compare/v0.0.0...v4.0.0-alpha.1) (2021-10-17)
 
 
