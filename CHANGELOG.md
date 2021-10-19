@@ -1,3 +1,12 @@
+## [4.0.0-alpha.3](https://github.com/godot-escoria/escoria-ui-9verbs/compare/v0.0.0...v4.0.0-alpha.3) (2021-10-19)
+
+
+### Bug Fixes
+
+* Fixed Assetlib id ([820872a](https://github.com/godot-escoria/escoria-ui-9verbs/commit/820872a439f97a8974ceef4db9a29e20994fe56f))
+
+
+
 ## [4.0.0-alpha.2](https://github.com/godot-escoria/escoria-ui-9verbs/compare/v0.0.0...v4.0.0-alpha.2) (2021-10-17)
 
 
